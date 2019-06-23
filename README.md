@@ -27,3 +27,8 @@ $ pip install -r requirements.txt
 ## Acknowledgements
 
 I'd like to thank the dummy who got phished and had me bail him or her out.
+
+
+## License
+
+MIT License
