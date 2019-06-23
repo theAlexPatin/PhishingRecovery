@@ -24,6 +24,8 @@ $ pip install -r requirements.txt
 - Change `PASSWORD_INPUT` to the name attribute of the password field
 - Then run `$ python3 main.py`
 
+![Example run-through](img/example.gif)
+
 ## Acknowledgements
 
 I'd like to thank the dummy who got phished and had me bail him or her out.
