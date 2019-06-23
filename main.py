@@ -39,7 +39,7 @@ def get_fake_password():
 	else:
 		return _get_fake_alphanum()
 
-def navigate(url):
+def navigate():
 	driver = webdriver.Chrome()
 	driver.get(URL)
 	username = driver.find_element_by_name(EMAIL_INPUT)
